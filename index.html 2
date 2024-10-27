@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+        <style>
+            
+            #idea{background-color:rgb(250, 8, 250)}
+            
+            .destination{ background-color: rgb(0, 34, 255)}
+            
+            
+            
+        </style>
+        
+    </head>
+    <body>
+    
+        <h1 id="idea">Travel to ....</h1>
+        <p> 
+           <strong> We all want to travel</strong><br> Its part of the human nature to travel, that's why we were nomads in our past. Havig the wish of travelling is easy, but making it reality is hard, sometimes because of the time, or other reasons, but if you have made yourself the time for some vacations, but you haven't decided where to go, we have brought you some options.
+    </p> 
+    <h3 class="destination"><em>Norway</em></h3>
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Reine_Lofoten_2009.JPG/800px-Reine_Lofoten_2009.JPG" height="550" width="550">
+    
+     
+       <p> 
+           Sometimes what you need is a place where you can get away from technology, if you find technology and edification frustrating, you should probably go visit Norway, a place where technology is away from you, at least in most of its places. <Br> You can visit:
+           <ul>
+               <li>The oslo region</li>
+               <li>Land of Northern lights</li>
+               <li>The Aurlandsfjord</li>
+           </ul>
+       </p>
+    
+        <h3 class="destination"> <em>Greece</em></h3>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Attica_06-13_Athens_50_View_from_Philopappos_-_Acropolis_Hill.jpg/1024px-Attica_06-13_Athens_50_View_from_Philopappos_-_Acropolis_Hill.jpg" width="550">
+        
+         <p> 
+             Ever wandered what the ancient Athens and Sparta looked like? If so, let me tell you that you can get to know what it looked like, at least part of it, by going to watch the ancient ruins of greece.<br> Some places you can visit are:
+             <ul>
+                 <li>Athens</li>
+                 <li>Santorini</li>
+                 <li>Corfu</li>
+             </ul>
+         </p>
+        
+        <h3 class="destination"> <em>Japan</em></h3>
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Rainbow_Bridge_%28Tokyo%29_at_night_5~2_%28cropped%29.jpg/1920px-Rainbow_Bridge_%28Tokyo%29_at_night_5~2_%28cropped%29.jpg" width="550">
+        
+         <p> 
+             Japan, one of the most advanced countries in the world, also known for their gastronomy, sometimes considered <em>"peculiar".</em><br> Places you can visit:
+             <ul>
+                 <li>Tokyo</li>
+                 <li>Kioto</li>
+                 <li>Nagoya</li>
+             </ul>
+         </p>
+        
+        <h3 class="destination"> <em>Madrid</em></h3>
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Palaciorealycatedraldelaalmudena_retouched.jpg/1280px-Palaciorealycatedraldelaalmudena_retouched.jpg" width="550">
+        
+         <p>
+         
+             If you have never visited Spain, you should probably start now by visiting its capital, Madrid.<br> Some places you can visit are: 
+             <ul>
+                 <li>Royal palace</li>
+                 <li>Reina sofia Museum</li>
+                 <li>El Retiro park</li>
+             </ul>
+             
+         </p>
+        
+        <h3 class="destination"> <em>Switzerland</em></h3>
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Geneve_2005_001_Ork.ch.jpg/800px-Geneve_2005_001_Ork.ch.jpg" width="550">
+        
+         <p> 
+             In case you want some winter vacations in a place where snow is abundant, Switzerland is the correct place to go. Some places you can visit are:
+             
+         
+             <ul> 
+                 <li>Lucerne</li>
+                 <li>Zurich</li>
+                 <li>Geneva</li>
+             </ul> 
+                 
+              
+        
+ 
+ 
+     
+ </body>
+</html>
